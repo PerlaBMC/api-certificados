@@ -1,0 +1,49 @@
+{
+    "certificados":[
+        {
+            "id": 1,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187517/Captura_de_pantalla_2024-07-16_a_la_s_9.37.08_p.m._aormeb.png",
+            "titulo": "Finalización de programa"
+        },
+        {
+            "id": 2,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187519/Captura_de_pantalla_2024-07-16_a_la_s_9.37.48_p.m._hgt2sm.png",
+            "titulo": "React G6"
+        },
+        {
+            "id": 3,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187513/Captura_de_pantalla_2024-07-16_a_la_s_9.35.23_p.m._fi8zp5.png",
+            "titulo": "React: Desarrollo con Java Script"
+        },
+        {
+            "id": 4,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187512/Captura_de_pantalla_2024-07-16_a_la_s_9.34.58_p.m._blpfjx.png",
+            "titulo": "Hooks en React JS"
+        },
+        {
+            "id": 5,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187510/Captura_de_pantalla_2024-07-16_a_la_s_9.36.19_p.m._avzyw1.png",
+            "titulo": "Principiante en programación"
+        },
+        {
+            "id": 6,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187519/Captura_de_pantalla_2024-07-16_a_la_s_9.36.54_p.m._perqsl.png",
+            "titulo": "Lógica de programación con Java Script"
+        },
+        {
+            "id": 7,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187520/Captura_de_pantalla_2024-07-16_a_la_s_9.37.18_p.m._j8mgyb.png",
+            "titulo": "CSS: Flexbox y Layouts responsivos "
+        },
+        {
+            "id": 9,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187515/Captura_de_pantalla_2024-07-16_a_la_s_9.37.28_p.m._bhxtak.png",
+            "titulo": "Git y Github: repositorio, commit y versiones "
+        },
+        {
+            "id": 10,
+            "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187510/Captura_de_pantalla_2024-07-16_a_la_s_9.35.57_p.m._owxfcw.png",
+            "titulo": "Front-End G6"
+        }
+    ]
+}
