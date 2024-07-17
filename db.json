@@ -3,47 +3,56 @@
         {
             "id": 1,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187517/Captura_de_pantalla_2024-07-16_a_la_s_9.37.08_p.m._aormeb.png",
-            "titulo": "Finalización de programa"
+            "titulo": "Finalización de programa",
+            "descripcion": "Al completar un curso completo de Front End y React, se adquieren habilidades y logros clave como la creación de estructuras web y estilos visuales responsivos con HTML y CSS, el manejo avanzado de JavaScript para manipular el DOM y manejar eventos utilizando ES6+, y la capacidad de construir interfaces de usuario dinámicas y reutilizables con componentes de React. Además, se aprende a gestionar el estado de la aplicación con Redux o Context API, a consumir APIs y manejar peticiones HTTP, a escribir pruebas unitarias y de integración, y a utilizar herramientas de desarrollo como Webpack, Babel y herramientas de depuración. También se aplican buenas prácticas de diseño, accesibilidad y optimización de rendimiento, esenciales para el desarrollo front-end moderno."
         },
         {
             "id": 2,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187519/Captura_de_pantalla_2024-07-16_a_la_s_9.37.48_p.m._hgt2sm.png",
-            "titulo": "React G6"
+            "titulo": "React G6",
+            "descripcion": "Al completar un curso de React, se adquieren habilidades y logros esenciales como la capacidad de construir interfaces de usuario dinámicas y reutilizables utilizando componentes de React, gestionar el estado de la aplicación de manera eficiente con Redux o Context API, y consumir APIs para manejar peticiones HTTP. También se aprende a escribir pruebas unitarias y de integración para asegurar la calidad del código, utilizar herramientas de desarrollo como Webpack y Babel, y aplicar buenas prácticas de diseño, accesibilidad y optimización de rendimiento en aplicaciones React."
         },
         {
             "id": 3,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187513/Captura_de_pantalla_2024-07-16_a_la_s_9.35.23_p.m._fi8zp5.png",
-            "titulo": "React: Desarrollo con Java Script"
+            "titulo": "React: Desarrollo con Java Script",
+            "descripcion": "¡Estoy muy emocionada de compartir que he completado con éxito el curso de React: desarrollando con JavaScript en Alura! 🎉 Aprendí a describir las ventajas de usar React, implementar componentes reactivos, investigar y analizar mensajes de error, modificar y evolucionar componentes según las necesidades del proyecto, ¡y hasta prototipar una aplicación desde cero! 🚀"
         },
         {
             "id": 4,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187512/Captura_de_pantalla_2024-07-16_a_la_s_9.34.58_p.m._blpfjx.png",
-            "titulo": "Hooks en React JS"
+            "titulo": "Hooks en React JS",
+            "descripcion": "Aprendí tanto sobre los hooks de ReactJS y su importancia, cómo gestionar el estado de un componente con useState, acceder al DOM virtual con useRef, entender el ciclo de vida de un componente con useEffect, implementar estados globales con contextAPI, utilizar useReducer en aplicaciones complejas y construir mis propios hooks."
         },
         {
             "id": 5,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187510/Captura_de_pantalla_2024-07-16_a_la_s_9.36.19_p.m._avzyw1.png",
-            "titulo": "Principiante en programación"
+            "titulo": "Principiante en programación",
+            "descripcion": "Al completar un curso de formación principiante en programación, se adquieren habilidades y logros fundamentales como la comprensión de conceptos básicos de lógica de programación, estructuras de control como bucles y condicionales, y el uso de variables y tipos de datos. Además, se aprende a escribir y depurar programas simples, desarrollar habilidades de resolución de problemas mediante la aplicación de algoritmos básicos, y familiarizarse con herramientas de desarrollo y entornos de programación."
         },
         {
             "id": 6,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187519/Captura_de_pantalla_2024-07-16_a_la_s_9.36.54_p.m._perqsl.png",
-            "titulo": "Lógica de programación con Java Script"
+            "titulo": "Lógica de programación con Java Script",
+            "descripcion": "💻 Aprendí a mostrar mensajes en pantalla de forma interactiva, a utilizar variables en el desarrollo de software y a seguir buenas prácticas de programación. Además, desarrollé una aplicación de principio a fin, inspirada en el mundo real"
         },
         {
             "id": 7,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187520/Captura_de_pantalla_2024-07-16_a_la_s_9.37.18_p.m._j8mgyb.png",
-            "titulo": "CSS: Flexbox y Layouts responsivos "
+            "titulo": "CSS: Flexbox y Layouts responsivos ".
+            "descripcion":"Aprendí a utilizar las propiedades de Flexbox en la práctica, creando un proyecto responsivo y cambiando el eje de los elementos a horizontal o vertical. También aprendí a aplicar videos de manera responsiva y a integrar las propiedades de Flexbox con otras propiedades de CSS."
         },
         {
             "id": 9,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187515/Captura_de_pantalla_2024-07-16_a_la_s_9.37.28_p.m._bhxtak.png",
-            "titulo": "Git y Github: repositorio, commit y versiones "
+            "titulo": "Git y Github: repositorio, commit y versiones",
+            "descripcion": "He aprendido a diferenciar entre Git y GitHub, dominar los comandos principales, controlar las versiones de mis proyectos, crear estrategias de ramificaciones y navegar en el tiempo con el comando git log."
         },
         {
             "id": 10,
             "url": "https://res.cloudinary.com/dujrua0vo/image/upload/v1721187510/Captura_de_pantalla_2024-07-16_a_la_s_9.35.57_p.m._owxfcw.png",
-            "titulo": "Front-End G6"
+            "titulo": "Front-End G6",
+            "descripcion": "Adquirí habilidades y logros esenciales como la creación de estructuras web con HTML, el diseño y estilización de páginas web mediante CSS, y el uso de JavaScript para añadir interactividad. "
         }
     ]
 }
